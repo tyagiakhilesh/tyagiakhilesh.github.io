@@ -1,5 +1,13 @@
 # Welcome to my playground! :)
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Table of Contents
   * **Windows Platform**
     * [[Adding a system to a domain]]
