@@ -1,1 +1,1 @@
-![.](/assets/images/Resume-Timeline.svg)
+![.](/assets/images/Resume-Timeline.png)
